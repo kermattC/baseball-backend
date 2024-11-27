@@ -1,4 +1,4 @@
-package com.mlbstats.baseball_stats.pitcher_entity;
+package com.mlbstats.baseball_stats.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
